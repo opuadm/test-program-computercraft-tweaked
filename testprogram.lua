@@ -12,4 +12,4 @@ io.write("Current version of this test program is: ", _G.VerTest)
 wait(2)
 io.write("Type Ur Username u want to have in this app")
 _G.USRName = io.read
-io.write("Ok! So ur username is ", _G.USRName, ".")
+io.write("Ok! So ur username is ", _G.USRName)
