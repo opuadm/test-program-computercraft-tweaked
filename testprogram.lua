@@ -1,1 +1,2 @@
-io.write("Welcome to my test program")
+print("Welcome to my test program ig")
+wait(0.05)
