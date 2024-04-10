@@ -28,3 +28,11 @@ local username = read()  -- Using 'read()' to get user input
 print("Ok! So your username is " .. username)
 
 moveCursorDown()  -- Move the cursor down by one line
+
+wait(0.03)
+
+print("Type in ur Password you want here")
+local pasword = read()
+clearConsole()
+
+print("Alright Then!")
