@@ -10,6 +10,8 @@ end
 _G.VerTest = "Main 0.1.0a"
 io.write("Current version of this test program is: ", _G.VerTest)
 wait(2)
+print("...")
 io.write("Type Ur Username u want to have in this app")
 local usrname = io.read()
+print("...")
 io.write("Ok! So ur username is ", usrname)
